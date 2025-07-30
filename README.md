@@ -5,16 +5,16 @@ A comprehensive full-stack web application for analyzing mutual fund operations,
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshot%202025-07-30%20at%206.29.51%20PM.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ### Fund Performance Dashboard
-![Fund Performance Dashboard](Screenshot%202025-07-30%20at%206.30.01%20PM.png)
+![Fund Performance Dashboard](fund-performance-dashboard.png)
 
 ### Alternative Investments Allocation
-![Alternative Investments Allocation](Screenshot%202025-07-30%20at%206.30.06%20PM.png)
+![Alternative Investments Allocation](alternative-investments-allocation.png)
 
 ### Alternative Investments Analysis
-![Alternative Investments Analysis](Screenshot%202025-07-30%20at%206.30.15%20PM.png)
+![Alternative Investments Analysis](alternative-investments-analysis.png)
 
 ## 🚀 Features
 
