@@ -1,0 +1,26 @@
+{
+  "name": "mutual-fund-analysis",
+  "version": "1.0.0",
+  "description": "Comprehensive mutual fund operations analysis platform with IIROC compliance and PROR calculations",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd frontend && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mutual-funds",
+    "financial-analysis",
+    "iiroc-compliance",
+    "pror-calculator",
+    "alternative-investments"
+  ],
+  "author": "Financial Services Analyst",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+} 
